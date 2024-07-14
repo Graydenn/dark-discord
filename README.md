@@ -18,16 +18,8 @@
 ## Previews
 
 ![Preview](https://i.imgur.com/G7sIRe5.png)
-## Installation
-#### BetterDiscord
-- Visit [this link](https://marioparaschiv.github.io/better-discord-downloader/?theme=dark-discord)
+## Information
 
-#### Powercord / Vizality
-`git clone https://github.com/marioparaschiv/dark-discord`
-
-#### Web
-- Install **Stylus** for [Chrome](https://chrome.google.com/webstore/detail/stylus/clngdbkpkpeebahjckkjfobafhncgmne) / [Firefox](https://addons.mozilla.org/en-US/firefox/addon/styl-us/) / [Opera](https://github.com/openstyles/stylus/wiki/Opera,-Outdated-Stylus)
-
-- Visit [this link](https://raw.githubusercontent.com/marioparaschiv/dark-discord/master/src/stylus.user.css)
-
-- Install the style directly into your browser
+#### Vencord / Similar
+Use this link in the "Online Themes" section.
+`https://raw.githubusercontent.com/Graydenn/dark-discord/main/DarkDiscord.theme.css`

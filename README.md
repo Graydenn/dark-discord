@@ -22,9 +22,5 @@
 
 #### Vencord / Similar
 Use this link in the "Online Themes" section.
-<<<<<<< HEAD
-`https://cdn.jsdelivr.net/gh/Graydenn/dark-discord/DarkDiscord.theme.css`
-=======
 
-`https://raw.githubusercontent.com/Graydenn/dark-discord/main/DarkDiscord.theme.css`
->>>>>>> 4f12cdb6ce3f5e8ba2d0be972a1f652cce558560
+`https://cdn.jsdelivr.net/gh/Graydenn/dark-discord/DarkDiscord.theme.css`

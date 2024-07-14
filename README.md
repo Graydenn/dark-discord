@@ -22,4 +22,5 @@
 
 #### Vencord / Similar
 Use this link in the "Online Themes" section.
+
 `https://raw.githubusercontent.com/Graydenn/dark-discord/main/DarkDiscord.theme.css`

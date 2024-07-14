@@ -22,4 +22,4 @@
 
 #### Vencord / Similar
 Use this link in the "Online Themes" section.
-`https://cdn.jsdelivr.net/gh/Graydenn/dark-discord/DarkDiscord.theme.css`
+`https://cdn.jsdelivr.net/gh/Graydenn/dark-discord/DarkDiscord.theme.css``https://cdn.jsdelivr.net/gh/Graydenn/dark-discord/DarkDiscord.theme.css`
